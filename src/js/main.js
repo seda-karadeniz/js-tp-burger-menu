@@ -23,7 +23,6 @@ const App = {
   },
   toggleNav(event) {
     this.target.classList.toggle('is-opened');
-    event.preventDefault();
   }
 };
 App.init();
