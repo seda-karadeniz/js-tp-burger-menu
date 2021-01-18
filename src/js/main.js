@@ -11,7 +11,7 @@ const app = {
         /* nav.classList.toggle("visible"); */
         
         /* if (leMain.classList.contains('is-opened')) {
-            leMain.classList.remove('is-opened');
+            leMain.classList.remove('is-opened');test
         }
         else{
             leMain.classList.add('is-opened');
